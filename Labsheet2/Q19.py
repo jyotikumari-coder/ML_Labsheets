@@ -1,0 +1,6 @@
+plt.plot([1,2,3,4],[10,20,25,30], label='Sales')
+plt.title("Monthly Sales")
+plt.xlabel("Month")
+plt.ylabel("Sales")
+plt.legend()
+plt.show()
